@@ -23,7 +23,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-2024.svg?year=2024
             dist/github-contribution-grid-snake-2023.svg?year=2023
             dist/github-contribution-grid-snake-2022.svg?year=2021
