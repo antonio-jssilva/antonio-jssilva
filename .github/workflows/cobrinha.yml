@@ -24,7 +24,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+            dist/github-contribution-grid-snake-2024.svg?year=2024
+            dist/github-contribution-grid-snake-2023.svg?year=2023
+            dist/github-contribution-grid-snake-2022.svg?year=2021
+            dist/github-contribution-grid-snake-2020.svg?year=2020
+            dist/github-contribution-grid-snake-2019.svg?year=2019
+            
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
