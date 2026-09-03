@@ -29,5 +29,5 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/antonio-jssilva/antonio-jssilva/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/antonio-jssilva/antonio-jssilva/master/github-contribution-grid-snake.svg" alt="Snake animation" />
 
